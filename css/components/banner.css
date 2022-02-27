@@ -1,0 +1,17 @@
+.banner {
+	background-image: linear-gradient(90deg, rgba(255,255,255,0.44723827030812324) 0%, rgba(255,255,255,0.47524947478991597) 0%, rgba(255,255,255,0.6937368697478992) 100%), url(../../Images/Closet.jpeg);
+	color: black;
+	padding: 50px 0px;
+	background-size: cover;
+
+}
+
+.banner h1 {
+	font-size: 50px;
+}
+.banner h2 {
+	font-size: 30px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 50px;
+}
